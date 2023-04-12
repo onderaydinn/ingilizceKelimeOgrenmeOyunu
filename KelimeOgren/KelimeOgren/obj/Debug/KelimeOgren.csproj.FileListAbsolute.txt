@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\Software\Project\KelimeOgren\KelimeOgren\bin\Debug\KelimeOgren.exe.config
+C:\Users\ASUS\Desktop\Software\Project\KelimeOgren\KelimeOgren\bin\Debug\KelimeOgren.exe
+C:\Users\ASUS\Desktop\Software\Project\KelimeOgren\KelimeOgren\bin\Debug\KelimeOgren.pdb
+C:\Users\ASUS\Desktop\Software\Project\KelimeOgren\KelimeOgren\obj\Debug\KelimeOgren.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Software\Project\KelimeOgren\KelimeOgren\obj\Debug\KelimeOgren.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\Software\Project\KelimeOgren\KelimeOgren\obj\Debug\KelimeOgren.Form1.resources
+C:\Users\ASUS\Desktop\Software\Project\KelimeOgren\KelimeOgren\obj\Debug\KelimeOgren.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Software\Project\KelimeOgren\KelimeOgren\obj\Debug\KelimeOgren.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Software\Project\KelimeOgren\KelimeOgren\obj\Debug\KelimeOgren.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Software\Project\KelimeOgren\KelimeOgren\obj\Debug\KelimeOgren.exe
+C:\Users\ASUS\Desktop\Software\Project\KelimeOgren\KelimeOgren\obj\Debug\KelimeOgren.pdb
